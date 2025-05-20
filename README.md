@@ -29,7 +29,12 @@ STEP-4: Multiply the two matrices to obtain the cipher text of length three.
 STEP-5: Combine all these groups to get the complete cipher text.
 
 ## PROGRAM 
+![image](https://github.com/user-attachments/assets/803e5a4b-3768-4bd5-a763-d83cd7d2f1d7)
+![image](https://github.com/user-attachments/assets/17913990-41b4-42d7-b660-7498de8f3d41)
+
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/2c1911f9-40ed-4a87-8708-ba70859582cb)
 
 ## RESULT
+hence the program is successfully completed.
